@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dobrojui", "Dobrojui\Dobrojui.csproj", "{ADA9FC93-3B41-46BB-B3AD-0E735CCA5A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeLib", "..\SerializeLib\SerializeLib\SerializeLib.csproj", "{4F4FF2B7-1583-4179-BE77-D66AB25FB9A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA9FC93-3B41-46BB-B3AD-0E735CCA5A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA9FC93-3B41-46BB-B3AD-0E735CCA5A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA9FC93-3B41-46BB-B3AD-0E735CCA5A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA9FC93-3B41-46BB-B3AD-0E735CCA5A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4FF2B7-1583-4179-BE77-D66AB25FB9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4FF2B7-1583-4179-BE77-D66AB25FB9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4FF2B7-1583-4179-BE77-D66AB25FB9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4FF2B7-1583-4179-BE77-D66AB25FB9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF312C2-2800-4544-B627-893374EBDFE7}
+	EndGlobalSection
+EndGlobal
